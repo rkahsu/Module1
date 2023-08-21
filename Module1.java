@@ -1,5 +1,3 @@
-import java.util.Scanner;
- 
 class main_class {
     public static void main(String[] args){
 //declare variables
